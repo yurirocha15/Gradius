@@ -7,6 +7,8 @@ Developed by:
  - Jhonantans Moraes Rocha
  - Raphael Arthur Resende
  - Yuri Gonçalves Rocha
+ 
+ June 2013 - Brasilia, Brazil.
 
 ## Required Libraries
 
