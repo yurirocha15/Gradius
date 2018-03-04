@@ -1,12 +1,12 @@
 ## Gradius
 C++ game using SDL Libraries
 
-Developed as a Final Project of the second year course Object-oriented Programming, at the University of Brasilia, Brazil.
+Final Project of the second year course Object-oriented Programming, at the University of Brasilia, Brazil.
 
-Developers:
-Jhonantans Moraes Rocha
-Raphael Arthur Resende
-Yuri Gonçalves Rocha
+Developed by:
+ - Jhonantans Moraes Rocha
+ - Raphael Arthur Resende
+ - Yuri Gonçalves Rocha
 
 ## Required Libraries
 
