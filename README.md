@@ -16,9 +16,10 @@ SDL
  - libsdl-mixer1.2-dev
  - libsdl-image1.2-dev
  
-## Compilation
+## Compilation and Execution
 
 ```
-cd Game
-cmake . && make
+$ cd Game
+$ cmake . && make
+$ ./Gradius
 ```
